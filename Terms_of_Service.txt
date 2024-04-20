@@ -1,0 +1,49 @@
+Terms of Service
+
+These Terms of Service ("Terms") govern your access to and use of the Daily Floppa bot ("the Bot") provided by @ab3ja ("the Provider"). By using the Bot, you agree to be bound by these Terms. If you do not agree to these Terms, please refrain from using the Bot.
+
+1. Use of the Bot
+
+1.1. The Bot is provided solely for your personal, non-commercial use.
+
+1.2. You agree not to use the Bot for any unlawful or prohibited purpose.
+
+2. Ownership
+
+2.1. The Bot and all content provided through it are the property of the Provider.
+
+2.2. You may not modify, adapt, reproduce, distribute, or create derivative works based on the Bot or its content.
+
+3. User Conduct
+
+3.1. By using the Bot, you agree to conduct yourself in a respectful and lawful manner.
+
+3.2. You agree not to engage in any activity that disrupts or interferes with the operation of the Bot or its users.
+
+4. Termination
+
+4.1. The Provider may terminate or suspend your access to the Bot at any time, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms.
+
+4.2. Upon termination, your right to use the Bot will cease immediately.
+
+5. Disclaimer
+
+5.1. The Bot is provided "as is" and "as available" without warranties of any kind, whether express or implied.
+
+5.2. The Provider does not warrant that the Bot will be error-free or uninterrupted, or that defects will be corrected.
+
+6. Limitation of Liability
+
+6.1. In no event shall the Provider be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (a) your access to or use of or inability to access or use the Bot; (b) any conduct or content of any third party on the Bot; or (c) unauthorized access, use, or alteration of your transmissions or content.
+
+7. Governing Law
+
+7.1. These Terms shall be governed by and construed in accordance with the laws of Spain, without regard to its conflict of law provisions.
+
+8. Changes to Terms
+
+8.1. The Provider reserves the right, at its sole discretion, to modify or replace these Terms at any time. If a revision is material, the Provider will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at the Provider's sole discretion.
+
+9. Contact
+
+9.1. If you have any questions about these Terms, please contact us at crazyfuy@protonmail.com.
