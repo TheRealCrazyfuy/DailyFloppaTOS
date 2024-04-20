@@ -1,0 +1,31 @@
+
+Certainly! Here's a basic template for a Privacy Policy for your bot:
+
+Privacy Policy
+
+This Privacy Policy ("Policy") explains how @ab3ja ("we," "us," "our") collects, uses, and protects personal information collected through the Daily Floppa bot ("the Bot"). By using the Bot, you agree to the terms of this Policy.
+
+1. Information We Collect
+
+1.1. User Provided Information: We may collect personal information that you voluntarily provide to us when interacting with the Bot, such as messages or commands you send to the Bot.
+
+2. How We Use Your Information
+
+2.1. We may use the information we collect to provide, maintain, and improve the Bot, including troubleshooting, data analysis, testing, and research purposes.
+
+3. Information Sharing and Disclosure
+
+3.1. We will not share your personal information with third parties except as described in this Policy or with your consent.
+
+4. Data Security
+
+4.1. We take appropriate measures to protect the security of your personal information, but no method of transmission over the Internet or electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+6. Changes to this Privacy Policy
+
+6.1. We may update this Policy from time to time. We will notify you of any changes by posting the new Policy on this page. You are advised to review this Policy periodically for any changes.
+
+7. Contact Us
+
+7.1. If you have any questions about this Privacy Policy, please contact us at crazyfuy@protonmail.com.
+
